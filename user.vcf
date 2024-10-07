@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Steenbeeke;Albertus;;;
 FN: Albertus Steenbeeke 
-ORG:BT&T Software Development;
-TITLE:Owner
+ORG:BT&T Software Development - NTCS GreenBee;
+TITLE:Driving eMobility
 EMAIL;type=INTERNET;type=WORK;type=pref:bert@bttsd.com
 TEL;type=WORK;type=VOICE:+31 655 836 479
 item1.ADR;type=WORK;type=pref:;;Strada Dobrota 12\nBucharest;;;020177;Romania
-item1.X-ABADR:sg
+item1.X-ABADR:ro
 item2.URL;type=pref:bttsd.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
